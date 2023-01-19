@@ -1,7 +1,8 @@
 import styled from 'styled-components'
 
 const H1 = styled.h1`
-  border: 1px solid red;
+  border: 10px solid red;
+  border-radius: 2rem;
 `
 
 export default function Index() {
